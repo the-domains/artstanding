@@ -1,0 +1,28 @@
+name: ArtStanding
+favicon: null
+layout_spectrum: 0.3316937363706529
+typography_spectrum: 0.3938458568882197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10947879636660218
+  lightness: 0.7903125481680036
+  saturation: 0.11138357664458454
+  rhythmicContrast: 0.2888761374633759
+purpose: []
