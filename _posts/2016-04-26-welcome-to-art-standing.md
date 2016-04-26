@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Art Standing
-datePublished: '2016-04-26T21:24:00.090Z'
-dateModified: '2016-04-26T21:23:59.844Z'
+datePublished: '2016-04-26T21:25:02.071Z'
+dateModified: '2016-04-26T21:24:21.401Z'
 title: ''
 author: []
 authors: []
